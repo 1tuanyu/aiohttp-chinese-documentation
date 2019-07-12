@@ -1,0 +1,3 @@
+在“服务端部分”-“构建数据库”-“数据库架构”这一章中：
+question - sq.Table 应该为：question = sa.Table
+choice中的“sa.ForeignKeyContraint”应为：sa.PrimaryKeyConstraint
